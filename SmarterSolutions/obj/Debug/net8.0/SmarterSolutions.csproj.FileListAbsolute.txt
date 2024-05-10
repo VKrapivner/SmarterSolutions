@@ -1,0 +1,14 @@
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\bin\Debug\net8.0\SmarterSolutions.exe
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\bin\Debug\net8.0\SmarterSolutions.deps.json
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\bin\Debug\net8.0\SmarterSolutions.runtimeconfig.json
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\bin\Debug\net8.0\SmarterSolutions.dll
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\bin\Debug\net8.0\SmarterSolutions.pdb
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\SmarterSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\SmarterSolutions.AssemblyInfoInputs.cache
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\SmarterSolutions.AssemblyInfo.cs
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\SmarterSolutions.csproj.CoreCompileInputs.cache
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\SmarterSolutions.dll
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\refint\SmarterSolutions.dll
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\SmarterSolutions.pdb
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\SmarterSolutions.genruntimeconfig.cache
+C:\Users\vkrapivner\source\repos\SmarterSolutions\SmarterSolutions\obj\Debug\net8.0\ref\SmarterSolutions.dll

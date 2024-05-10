@@ -1,0 +1,13 @@
+# Ignorera Visual Studio-specifika filer
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+ipch/
+*.dbmdl
+
+# Ignorera byggresultat
+[Bb]in/
+[Oo]bj/
+[Ll]og/
